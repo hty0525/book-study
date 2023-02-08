@@ -159,7 +159,7 @@ li{
     <title>Document</title>
   </head>
   <body>
-  <!-- 여러 **Class**를 사용할 경우에는 띄어쓰기로 구분한다 -->
+  <!-- 여러 Class를 사용할 경우에는 띄어쓰기로 구분한다 -->
     <h1 class="title bold">
       제목
     </h1>
@@ -175,7 +175,7 @@ li{
   font-weight:bold;
 }
 
-<!-- 이런식으로 두가지 **Class**를 다 가진 태그에만 적용 시킬 수도 있다. -->
+<!-- 이런식으로 두가지 Class를 다 가진 태그에만 적용 시킬 수도 있다. -->
 .title.bold{
   font-size:28px;
 }
